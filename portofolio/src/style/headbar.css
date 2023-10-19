@@ -1,0 +1,11 @@
+#darot {
+  /* background: red; */
+  margin-top: 10px;
+  width: 100%;
+  font-weight: 500;
+  column-gap: 30px;
+}
+
+#darot .nav-link {
+  color: white;
+}
